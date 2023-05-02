@@ -11,11 +11,11 @@
 2. The app enables you to share or track your family members' driving status, including their phone usage while driving, speeding, hard braking, emergency calling, roadside assistance, total miles driven, and more.
 
 ## Persona + Empathy Map
-Persona 1: Sarah
+### Persona 1: Sarah
 <img src="./sarahpersona.pic.jpg">
 <img src="./sarahemp.pic.jpg">
 
-Persona 2: Max
+### Persona 2: Max
 <img src="./maxpersona.pic.jpg">
 <img src="./maxemp.pic.jpg">
 
